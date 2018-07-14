@@ -55,7 +55,7 @@
 - `php artisan key:generate`
 - `php artisan migrate --seed`
 
-### Доступ к админке (/admin):
+### Доступ к админке (`/admin`):
 
 - логин: `test@test.com` (или любой из созданных при сидировании), пароль: `password`
 
